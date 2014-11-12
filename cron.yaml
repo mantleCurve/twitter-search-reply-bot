@@ -1,0 +1,4 @@
+cron:
+- description: running every 30 minutes
+  url: /
+  schedule: every 24 minutes
